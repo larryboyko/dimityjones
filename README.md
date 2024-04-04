@@ -1,4 +1,4 @@
-##Dimity Jones In Puzzle Castle
+## Dimity Jones In Puzzle Castle
 
 _Dimity Jones In Puzzle Castle: An Electronic Escape Novel in Eighty-Nine Ciphertexts_ is a (mostly) fictional story, contained in a single text file, that requires the reader to solve puzzles as they go along, and to use each chapter's solution as a key to decipher the next. 
 
